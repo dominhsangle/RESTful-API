@@ -7,8 +7,8 @@ This is a simple node server for beginner
 
 ##Installation
 
- * Clone the repository: ```sh git clone git@github.com:dominhsangle/RESTful-API.git```
- * Start the server: ```sh node server.js```
+ * Clone the repository: ```git clone git@github.com:dominhsangle/RESTful-API.git```
+ * Start the server: ```node server.js```
 
 ##Testing the API
  * Using [POSTMAN](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) to test your API
