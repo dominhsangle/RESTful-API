@@ -6,8 +6,7 @@ This is a simple node server for beginner
  * MongoDB
 
 ##Installation
- * Clone the repo: git clone git@github.com:dominhsangle/RESTful-API.git
- * Install dependencies: npm install
+ * Clone the repository: git clone 'git@github.com:dominhsangle/RESTful-API.git'
  * Start the server: node server.js
 
 ##Testing the API
