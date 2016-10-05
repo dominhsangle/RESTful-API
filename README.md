@@ -11,4 +11,4 @@ This is a simple node server for beginner
  * Start the server: node server.js
 
 ##Testing the API
- * Using (POSTMAN)[https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop] to test your API
+ * Using [POSTMAN](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) to test your API
